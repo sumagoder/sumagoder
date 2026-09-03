@@ -8,7 +8,7 @@
 
 ## 🙋 About me
 
-Results-oriented CS (Data Science) graduate with hands-on experience in Data Analysis, Machine Learning, and Dashboard Development. Built and deployed end-to-end ML solutions during internship at Contriver. Passionate about turning raw data into actionable insights. Seeking an entry-level **Data Analyst** or **Data Science** role.
+Computer Science graduate specializing in Data Science, with hands-on experience building and deploying ML-powered applications (NLP, fraud detection, computer vision) using Python, Scikit-learn, Flask, and Streamlit. Strong foundation in SQL, DBMS, and software development, with a track record of taking projects from data pipeline to deployed web app. Seeking an entry-level Software Engineer / Data Scientist role.
 
 ---
 
