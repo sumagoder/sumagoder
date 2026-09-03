@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suma G
 
-🎓 B.E. Computer Science (Data Science) · RYMEC, Ballari · CGPA 8.33
+🎓 B.E., Computer Science (Data Science) Engineering  · RYMEC, Ballari  · CGPA 8.33
 💼 Data Science & Web Dev Intern @ Contriver (Feb–May 2026)
 📍 Ballari, Karnataka · 📧 sumag169@gmail.com
 
